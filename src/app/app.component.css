@@ -1,0 +1,43 @@
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    position:relative;
+}
+.notes:hover {
+   cursor: pointer;
+}
+.displaydata{
+    position: absolute;
+    height:250px;
+    width:250px;
+    background-color:#cccc;
+    
+}
+.ppp{
+    margin-left: 176px;
+}
+span{
+border: 1px solid black;
+margin-left: 95px;
+
+}
+span:hover {
+    cursor: pointer;
+ }
+.hide{
+display:none;
+}
+button{
+    float: right;
+    
+}
+button:hover{
+    cursor: pointer;     
+}
+
